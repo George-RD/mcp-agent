@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>Build effective agents with Model Context Protocol using simple, composable patterns.</em>
+  <em>Build effective! agents with Model Context Protocol using simple, composable patterns.</em>
 
 <p align="center">
   <a href="https://github.com/lastmile-ai/mcp-agent/tree/main/examples" target="_blank"><strong>Examples</strong></a>
